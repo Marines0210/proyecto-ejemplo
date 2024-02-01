@@ -1,39 +1,50 @@
 //Titulo 1
-      # A first-level heading
+# A first-level heading
+<br /> 
+
 //Titulo 2
-      ## A second-level heading
+## A second-level heading
+<br />
+
 //Titulo 3
-      ### A third-level heading
+### A third-level heading
+<br />
 
 //Titulo Texto normal 
-      Text that is not a quote
+Text that is not a quote
+<br />
 
 //Texto sutitulo 
-      > Text that is a quote
+> Text that is a quote
+<br />
 
 //Texto con link
-      This site was built using [GitHub Pages](https://pages.github.com/).
-
+This site was built using [GitHub Pages](https://pages.github.com/).
+<br />
 
 //Lista
-      - George Washington
-      * John Adams
-      + Thomas Jefferson
+ - George Washington
+* John Adams
++ Thomas Jefferson
+<br />
 
 //Lista con numeros
-      1. James Madison
-      1. James Monroe
-      1. John Quincy Adams
+1. James Madison
+1. James Monroe
+1. John Quincy Adams
+<br />
 
 //Bold
-      **This is bold text**
-      
+**This is bold text**
+<br />
+
 // Cursiva
-      _This text is italicized_
+_This text is italicized_
+<br />
 
 //Todo en negrita y cursiva 
-        ***All this text is important***
-
+***All this text is important***
+<br />
 
 //Ejemplo imagen 
 
