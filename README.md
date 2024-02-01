@@ -18,7 +18,7 @@ Text that is not a quote
 > Text that is a quote
 <br />
 
-//Texto con link
+//Texto con link <br />
 This site was built using [GitHub Pages](https://pages.github.com/).
 <br />
 
