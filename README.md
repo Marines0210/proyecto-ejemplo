@@ -34,15 +34,15 @@ This site was built using [GitHub Pages](https://pages.github.com/).
 1. John Quincy Adams
 <br />
 
-//Bold
+//Bold<br />
 **This is bold text**
 <br />
 
-// Cursiva
+// Cursiva<br />
 _This text is italicized_
 <br />
 
-//Todo en negrita y cursiva 
+//Todo en negrita y cursiva <br />
 ***All this text is important***
 <br />
 
